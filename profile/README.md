@@ -1,4 +1,4 @@
-## [About Website](https://ucf-aether.github.i0)
+## [About Website](https://ucf-aether.github.io)
 
 <!--
 
